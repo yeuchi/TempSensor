@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TempSensorTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="battery_temp">Battery temp:unavailable</string>
+    <string name="ambient_temp">Ambient temp:unavailable</string>
+    <string name="ambient_type">Ambient type:unavailable</string>
+    <string name="battery_level">Battery level:unavailable</string>
+    <string name="last_update">last update</string>
+    <string name="num_updates">0</string>
+
+</resources>
